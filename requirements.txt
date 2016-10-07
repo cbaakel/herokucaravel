@@ -1,4 +1,4 @@
 caravel==0.11.0
 psycopg2==2.6.2
-thrift>=0.9.3,
+thrift>=0.9.3
 thrift-sasl>=0.2.1
