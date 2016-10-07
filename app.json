@@ -5,5 +5,10 @@
   "repository": "https://github.com/neevany/caravel-on-heroku",
   "addons": [
     "heroku-postgresql"
+  ],
+  "buildpacks": [
+    {
+      "url": "aglover/libsasl2-buildpack"
+    }
   ]
 }
