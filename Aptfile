@@ -4,3 +4,4 @@ libsasl2-modules
 libsasl2-dev
 libldap2-dev
 libssl-dev
+gcc
