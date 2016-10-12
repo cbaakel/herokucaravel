@@ -1,3 +1,3 @@
--e git://github.com/cbaakel/python-sasl/python-sasl.git#egg=sasl
+-e git://github.com/cbaakel/python-sasl.git#egg=sasl
 caravel==0.11.0
 psycopg2==2.6.2
