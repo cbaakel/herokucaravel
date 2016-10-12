@@ -1,2 +1,2 @@
--U -r git://github.com/airbnb/caravel/#egg=caravel
+-r git://github.com/airbnb/caravel/#egg=caravel
 psycopg2==2.6.2
