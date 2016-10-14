@@ -1,3 +1,3 @@
-aravel==0.11.0
+caravel==0.11.0
 psycopg2==2.6.2
 sasl==0.2.1
