@@ -1,3 +1,8 @@
+build-essential
+libssl-dev
+libffi-dev
+python-dev
+python-pip
 libsasl2-dev
-sasl2-bin
+libldap2-dev
 
